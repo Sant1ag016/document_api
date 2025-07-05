@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+pydantic
+sqlalchemy
+mysql-connector-python
+google-cloud-storage
+python-multipart
+python-dotenv
+pytest
+pytest-asyncio
+pytesseract
+PyPDF2
+torch
+pillow
+pdf2image
+spacy
