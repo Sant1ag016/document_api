@@ -1,5 +1,6 @@
 # Entornos virtuales
 venv/
+<<<<<<< HEAD
 .env/
 
 # Python
@@ -36,3 +37,16 @@ build/
 # Otros
 *.sqlite3
 *.db
+=======
+.env
+
+# Archivos de compilación
+__pycache__/
+*.pyc
+
+# Archivos de VS Code
+.vscode/
+
+# Archivos logs o temporales
+*.log
+>>>>>>> 2af27008 (Subida inicial limpia del proyecto)

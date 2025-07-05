@@ -10,6 +10,7 @@ def get_db_connection():
         database=os.getenv('MYSQL_DB', 'doc_info_db')
     )
 
+
 def save_document_to_db(document_info):
     """Guarda la información del documento en la base de datos."""
     def none_if_empty(value):
